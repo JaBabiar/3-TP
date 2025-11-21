@@ -1,6 +1,5 @@
 ## Zadanie 1
 
-### Specyfikacja na tablicy:
 Atrybuty:
 
 - imie (nadawane przy tworzeniu)
@@ -9,7 +8,7 @@ Atrybuty:
 
 Mieć funkcje:
 
-- przedstaw_sie(): Wypisuje na ekranie "Nazywam się [imie] i mam [hp]/[max_hp] HP."
+- przedstaw_sie(): Wypisuje na ekranie "Nazywam się {imie} i mam {hp}/{max_hp} HP."
 - otrzymaj_obrazenia(ilosc): Zmniejsza HP o ilosc. 
 - ulecz_sie(ilosc): Zwiększa HP o ilosc.
 
