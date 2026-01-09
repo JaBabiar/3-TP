@@ -16,3 +16,5 @@
 #    np. {"3A": {"uczniowie": [{"imię": "Ziutek", "oceny": [5, 6]}, ...], "wychowawca": "Pan Nowak"}}
 # 6. Dodaj nowego ucznia do jednej z klas.
 # 7. Znajdź ucznia z najwyższą średnią ocen w danej klasie i wyświetl jego imię.
+
+
