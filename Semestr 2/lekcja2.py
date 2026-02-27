@@ -69,5 +69,5 @@ Wymagania:
    - Kliknięcie przycisku "Pożegnanie" powinno zmienić tekst 
      etykiety na "Do zobaczenia następnym razem!".
 
-
+Zadanie do oddania na + z aktywności 
 """
